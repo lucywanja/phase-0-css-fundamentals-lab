@@ -3,3 +3,45 @@ body {
   height: 100%;
   margin: 0;
 }
+/*-header style-*/
+h1 {
+  text-align: center;
+}
+/*-image style-*/
+img {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+/*-navbar style-*/
+nav {
+  margin: auto;
+  text-align: center;
+}
+/*-navbar links style-*/
+nav a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: beige;
+}
+/*- image caption style-*/
+figcaption {
+  text-align: center;
+  font-size: 10px;
+}
+/*-paragraph style-*/
+#featured-property p {
+   width: 800px;
+   text-align: center;
+   margin-left: auto;
+   margin-right: auto;
+
+}
+/*- contacts  style-*/
+#details div {
+  float: left;
+  text-align: center;
+  background-color: red;
+  width: 25%;
+
+}
